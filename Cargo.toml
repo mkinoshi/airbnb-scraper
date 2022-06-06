@@ -8,7 +8,7 @@ edition = "2018"
 
 [dependencies]
 fantoccini = "0.13.0"
-tokio = { version = "0.2", features = ["full"] }
+tokio = { version = "1.8", features = ["full"] }
 structopt = "0.2.10"
 regex = "1"
 lazy_static = "1.4.0"
